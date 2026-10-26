@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752269660302",
+    "project_id": "j-locker-system",
+    "storage_bucket": "j-locker-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752269660302:android:0be9154151f5aa1ba5b9df",
+        "android_client_info": {
+          "package_name": "com.aistudio.kwlocker.dealer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARFIBXoJwgT2cxkLbOe31Kmrweug9MFfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752269660302:android:670b0bbffaaec0eba5b9df",
+        "android_client_info": {
+          "package_name": "com.kwlocker.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARFIBXoJwgT2cxkLbOe31Kmrweug9MFfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
